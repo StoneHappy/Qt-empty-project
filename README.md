@@ -1,4 +1,4 @@
-# my_cpp_empty_project
+# Qt_empty_project
 
 ## how to use it
 ```bash
